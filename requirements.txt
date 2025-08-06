@@ -1,0 +1,9 @@
+streamlit
+librosa
+pydub
+numpy
+scipy
+joblib
+pyAudioAnalysis
+pyloudnorm
+matplotlib
