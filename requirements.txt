@@ -7,3 +7,4 @@ joblib
 pyAudioAnalysis
 pyloudnorm
 matplotlib
+eyed3
